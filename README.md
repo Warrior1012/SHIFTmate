@@ -1832,15 +1832,14 @@ Next Operator
 
 # 31. Team
 
-SHIFTmate was developed by the following team for the **Starforge Hackathon**, organized by **ForgeFox**, at **JSS University, Noida**.
+SHIFTmate was developed by the following team for the **Starforge Hackathon**, organized by and at **JSS University, Noida**.
 
-| Team Member         | Contribution                     |
-| ------------------- | -------------------------------- |
-| **Tanishq Agarwal** | Backend + AI/ML                  |
-| **Yashica Agarwal** | Frontend Development             |
-| **Shraddha Gupta**  | UI/UX + Presentation             |
-| **Kshitij Pandey**  | Project Support and Contribution |
-
+| Team Member | GitHub | Contribution |
+|---|---|---|
+| **Tanishq Agarwal** | [@Warrior1012](https://github.com/Warrior1012) | Backend + AI/ML |
+| **Yashica Agarwal** | [@YashicaGitHubID](https://github.com/Yashica1234) | Frontend Development |
+| **Shraddha Gupta** | [@ShraddhaGitHubID](https://github.com/shraddhagupta262007-droid) | UI/UX + Presentation |
+| **Kshitij Pandey** |  [@Kshitij Pandey](https://github.com/kshitijog) |Project Support and Contribution |
 ---
 
 # 32. License
