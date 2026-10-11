@@ -1,4 +1,3 @@
-````markdown
 # SHIFTmate
 
 ## Voice-First Operational Continuity for Shift Teams
